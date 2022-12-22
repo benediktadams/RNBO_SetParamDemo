@@ -1,0 +1,9 @@
+Builds
+JuceLibraryCode
+CmakeLists.txt
+Resources/DSP/DSP/gen_dsp/
+*.pkg
+
+Source/RNBO/rnbo_source.cpp
+
+Source/RNBO/rnbo/
